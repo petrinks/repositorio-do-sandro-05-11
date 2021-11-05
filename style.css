@@ -1,1 +1,25 @@
 
+header{
+    width: 1585px; 
+    height: 150px; 
+    background-color: bisque; 
+    float: center;
+}
+
+h1, h2, h3{
+    text-align: center;
+}
+
+    footer{
+        width: 1585px; 
+        height: 150px; 
+        background-color: bisque; 
+        float: center;
+    }
+    main{
+         width: 1585px; 
+         height: 150px; 
+         background-color: bisque; 
+         float: center;}
+
+
